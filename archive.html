@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ting Chang: Archive</title>
+    <meta charset="utf-8" />
+
+    <!-- <link rel="stylesheet" href="css/simple.css" /> -->
+    <script src="js/ui.js"></script>
+  </head>
+
+  <body></body>
+</html>
+<div class="archiveviewer-wrapper">
+  <nav>
+    <a class="archiveviewer-link" href="../">Back to Obituary</a>
+  </nav>
+  <div class="replaywebpage-wrapper">
+    <replay-web-page
+      replayBase="/js/"
+      deepLink="true"
+      updateFavicons=""
+      source="/assets/ting-chang.wacz"
+    ></replay-web-page>
+  </div>
+</div>
+
+<style>
+  html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  body,
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
+      "Nimbus Sans L", Roboto, "Noto Sans", "Segoe UI", Arial, Helvetica,
+      "Helvetica Neue", sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .archiveviewer-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    nav {
+      min-height: 2rem;
+      display: flex;
+      align-items: center;
+      padding: 0 1rem;
+      background-color: #f5f7ff;
+      border-bottom: solid 4px #898ea4;
+    }
+  }
+
+  .archiveviewer-link {
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .replaywebpage-wrapper {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+
+  replay-web-page {
+    background-color: white;
+  }
+</style>
