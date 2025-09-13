@@ -1,0 +1,890 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:BookSection rdf:about="urn:isbn:978-1-4875-4493-5">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-1-4875-4493-5</dc:identifier>
+                <dc:title>Making Worlds: Global Invention in the Early Modern Period</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>University of Toronto Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vanhaelen</foaf:surname>
+                        <foaf:givenName>Angela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenName>Bronwen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Le Jeu du monde: Games, Maps, and World Conquest in Early Modern France</dc:title>
+        <dc:date>2022-12-30</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://nottingham-repository.worktribe.com/output/16223958</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>201-236</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-3-11-054508-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Histories of World Art on Western Markets</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-11-054508-1</dc:identifier>
+                <dc:title>Acquiring Cultures</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>De Gruyter</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Savoy</foaf:surname>
+                        <foaf:givenName>Bénédicte</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guichard</foaf:surname>
+                        <foaf:givenName>Charlotte</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Howald</foaf:surname>
+                        <foaf:givenName>Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Emile Guimet’s Network for Research and Collecting Asian Objects (ca. 1877–1918)</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1515/9783110545081</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>DOI: 10.1515/9783110545081</dc:description>
+        <bib:pages>209-222</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-1-315-09241-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-1-315-09241-6</dc:identifier>
+                <dc:title>Is Paris Still the Capital of the Nineteenth Century?: Essays on Art and Modernity, 1850-1900</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Routledge</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clayson</foaf:surname>
+                        <foaf:givenName>Hollis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dombrowski</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Paris, Japan, and Modernity: A Vexed Ratio</dc:title>
+        <dc:date>2016-06-16</dc:date>
+        <z:language>en</z:language>
+        <dc:description>DOI: 10.4324/9781315092416-11</dc:description>
+        <bib:pages>153-170</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://muse.jhu.edu/pub/1/article/631665">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1931-0234"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Crowdsourcing avant la lettre: Henri Cordier and French Sinology, ca. 1875–1925</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://muse.jhu.edu/pub/1/article/631665</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Johns Hopkins University Press</dc:description>
+        <bib:pages>47-60</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1931-0234">
+        <prism:volume>56</prism:volume>
+        <dc:title>L'Esprit Créateur</dc:title>
+        <dc:identifier>DOI 10.1353/esp.2016.0028</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1931-0234</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="urn:isbn:978-2-8124-1806-8">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-2-8124-1806-8</dc:identifier>
+                <dc:title>Marcel Proust et les arts décoratifs</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Garnier Classiques</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Les hommes et les choses: Le collectionnisme d’Edmond de Goncourt</dc:title>
+        <dc:date>2013-12-16</dc:date>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://classiques-garnier.com/marcel-proust-et-les-arts-decoratifs-poetique-materialite-histoire-les-hommes-et-les-choses.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>39-51</bib:pages>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:978-1-351-53844-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Routledge</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Travel, collecting, and museums of Asian art in nineteenth-century Paris</dc:title>
+        <dc:date>2017-07-05</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>999614353</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-1-351-53844-2</dc:identifier>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.persee.fr/doc/cejdg_1243-8170_2011_num_1_18_1053">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1243-8170"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lafont</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Le japonisme, la chinoiserie et la France d'Edmond de Goncourt</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/cejdg_1243-8170_2011_num_1_18_1053</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-08 04:47:03</dcterms:dateSubmitted>
+        <bib:pages>55-68</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1243-8170">
+        <prism:volume>1</prism:volume>
+        <dc:title>Cahiers Edmond et Jules de Goncourt</dc:title>
+        <dc:identifier>DOI 10.3406/cejdg.2011.1053</dc:identifier>
+        <prism:number>18</prism:number>
+        <dcterms:alternative>cejdg</dcterms:alternative>
+        <dc:identifier>ISSN 1243-8170</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="urn:isbn:978-1-61149-006-0">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-1-61149-006-0</dc:identifier>
+                <dc:title>Collecting China: The World, China, and a History of Collecting</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>University Of Delaware Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rujivacharakul</foaf:surname>
+                        <foaf:givenName>Vimalin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Goncourt’s China Cabinet, a Fantasy</dc:title>
+        <dc:date>2011-02-14</dc:date>
+        <z:language>en</z:language>
+        <bib:pages>31-45</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-0-7546-6937-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-7546-6937-1</dc:identifier>
+                <dc:title>The Market for Exposure: Reimagining Cultural Exchange between Europe and Asia, 1400–1900</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Ashgate Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>North</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Asia as a Fantasy of France in the Nineteenth Century</dc:title>
+        <dc:date>2010-07-28</dc:date>
+        <z:language>en</z:language>
+        <bib:pages>45-52</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-2-86820-399-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-2-86820-399-1</dc:identifier>
+                <dc:title>L'Artiste savant à la conquête du monde moderne</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>PU STRASBOURG</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lafont</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Entre art et science: la représentation des autochtones dans les Promenades japonaises d'Émile Guimet et Félix Régamey III</dc:title>
+        <dc:date>2010-04-12</dc:date>
+        <z:language>fr</z:language>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://brill.com/view/journals/vvak/38/2/article-p56_56.xml">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2543-1749"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Object, Beeld en Voorstelling Twee 19e-Eeuwse Europese Verbeeldingen van ‘China’</dc:title>
+        <dc:date>2008-07-05</dc:date>
+        <z:language>nl</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://brill.com/view/journals/vvak/38/2/article-p56_56.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Place: Leiden, The Netherlands
+Publisher: Brill</dc:description>
+        <bib:pages>56-66</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2543-1749">
+        <prism:volume>38</prism:volume>
+        <dc:title>Aziatische Kunst</dc:title>
+        <dc:identifier>DOI 10.1163/25431749-90000128</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2543-1749</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="urn:isbn:978-2-86272-757-8">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-2-86272-757-8</dc:identifier>
+                <dc:title>La production de l’immatériel: Théories, représentations et pratiques de la culture au xixe siècle</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Saint-Étienne</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Presses universitaires de Saint-Étienne</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mollier</foaf:surname>
+                        <foaf:givenName>Jean-Yves</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Régnier</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaillant</foaf:surname>
+                        <foaf:givenName>Alain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Un monsieur à chapeau: les hiérarchies cachées de 'La Rencontre' de Gustave Courbet</dc:title>
+        <dc:date>2008-09-11</dc:date>
+        <z:language>fr</z:language>
+        <bib:pages>407-416</bib:pages>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-0-7190-6784-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-7190-6784-6</dc:identifier>
+                <dc:title>The invisible flâneuse? Gender, public space and visual culture in nineteenth century Paris</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Manchester University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>D'Souza</foaf:surname>
+                        <foaf:givenName>Aruna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McDonough</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Disorienting Orient: Duret and Guimet, Anxious Flâneurs in Asia</dc:title>
+        <dc:date>2006-09-19</dc:date>
+        <z:language>en</z:language>
+        <bib:pages>65-78</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-2-7535-0117-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-2-7535-0117-1</dc:identifier>
+                <dc:title>Collections et marché de l'art en France 1789-1848</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Presses universitaires de Rennes &amp; Institut national d'histoire de l'art</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preti-Hamard</foaf:surname>
+                        <foaf:givenName>Monica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seneschal</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Le Don échangé: L’Entrée des collections privées dans les musées publics au 19e siècle</dc:title>
+        <dc:date>2006-01-05</dc:date>
+        <z:language>fr</z:language>
+        <bib:pages>87-95</bib:pages>
+    </bib:BookSection>
+    <bib:Article rdf:about="http://academic.oup.com/jhc/article/17/2/213/640057/The-limits-of-the-giftAlfred-Chauchards-donation">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1477-8564,%200954-6650"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Limits of the Gift: Alfred Chauchard’s Donation to the Louvre</dc:title>
+        <dc:date>2005-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://academic.oup.com/jhc/article/17/2/213/640057/The-limits-of-the-giftAlfred-Chauchards-donation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-13 03:10:46</dcterms:dateSubmitted>
+        <bib:pages>213-221</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1477-8564,%200954-6650">
+        <prism:volume>17</prism:volume>
+        <dc:title>Journal of the History of Collections</dc:title>
+        <dc:identifier>DOI 10.1093/jhc/fhi026</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1477-8564, 0954-6650</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.jstor.org/stable/4134460?origin=crossref">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00043079"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Hats and Hierarchy in Gustave Courbet's &quot;The Meeting&quot;</dc:title>
+        <dc:date>2004-12</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/4134460?origin=crossref</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-13 03:12:07</dcterms:dateSubmitted>
+        <bib:pages>719</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00043079">
+        <prism:volume>86</prism:volume>
+        <dc:title>The Art Bulletin</dc:title>
+        <dc:identifier>DOI 10.2307/4134460</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>The Art Bulletin</dcterms:alternative>
+        <dc:identifier>ISSN 00043079</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="urn:isbn:978-0-300-10523-0">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-300-10523-0</dc:identifier>
+                <dc:title>Bonjour, Monsieur Courbet! The Bruyas Collection from the Musee Fabre, Montpellier</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Clark Art Institute</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lees</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Bruyas, Paris, and Montpellier: Artistic Center and Periphery</dc:title>
+        <dc:date>2004-05-11</dc:date>
+        <z:language>en</z:language>
+        <bib:pages>45-52</bib:pages>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://academic.oup.com/oaj/article-lookup/doi/10.1093/oxartj/25.1.17">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0142-6540,%201741-7287"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Collecting Asia: Theodore Duret's Voyage en Asie and Henri Cernuschi's Museum</dc:title>
+        <dc:date>2002-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Collecting Asia</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/oaj/article-lookup/doi/10.1093/oxartj/25.1.17</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-13 03:21:11</dcterms:dateSubmitted>
+        <bib:pages>17-34</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0142-6540,%201741-7287">
+        <prism:volume>25</prism:volume>
+        <dc:title>Oxford Art Journal</dc:title>
+        <dc:identifier>DOI 10.1093/oxartj/25.1.17</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Oxford Art Journal</dcterms:alternative>
+        <dc:identifier>ISSN 0142-6540, 1741-7287</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://academic.oup.com/oaj/article-lookup/doi/10.1093/oxartj/21.1.105">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>21</prism:volume>
+                <dc:title>Oxford Art Journal</dc:title>
+                <dc:identifier>DOI 10.1093/oxartj/21.1.105</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>Oxford Art Journal</dcterms:alternative>
+                <dc:identifier>ISSN 0142-6540, 1741-7287</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Rewriting Courbet: Silvestre, Courbet, and the Bruyas Collection after the Paris Commune</dc:title>
+        <dc:date>1998-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Rewriting Courbet</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/oaj/article-lookup/doi/10.1093/oxartj/21.1.105</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-13 03:22:32</dcterms:dateSubmitted>
+        <bib:pages>105-120</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://academic.oup.com/oaj/article-lookup/doi/10.1093/oxartj/19.2.95">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>19</prism:volume>
+                <dc:title>Oxford Art Journal</dc:title>
+                <dc:identifier>DOI 10.1093/oxartj/19.2.95</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Oxford Art Journal</dcterms:alternative>
+                <dc:identifier>ISSN 0142-6540, 1741-7287</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Models of Collecting</dc:title>
+        <dc:date>1996-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/oaj/article-lookup/doi/10.1093/oxartj/19.2.95</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-13 03:23:29</dcterms:dateSubmitted>
+        <bib:pages>95-97</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_25">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0007-6287"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Meeting: Gustave Courbet and Alfred Bruyas</dc:title>
+        <dc:date>1996-09</dc:date>
+        <z:language>en</z:language>
+        <bib:pages>586-591</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0007-6287">
+        <prism:volume>138</prism:volume>
+        <dc:title>The Burlington Magazine</dc:title>
+        <prism:number>1122</prism:number>
+        <dc:identifier>ISSN 0007-6287</dc:identifier>
+    </bib:Journal>
+    <bib:ConferenceProceedings rdf:about="https://nottingham-repository.worktribe.com/output/779949">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>University College London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:title>French sinology and Gustave Caillebotte’s Portrait of Henri Cordier, 1883</dc:title>
+        <dcterms:abstract>This presentation examines the competing and sometimes conflicting demands encountered in the study of portraiture and biography. Once revised, the paper will become an article that will make an original contribution to art history in empirical and conceptual ways. Based on research in unpublished archives I have discovered the nature of the relationship between the artist Caillebotte and the sitter Cordier, a previously unsolved mystery variously noted by commentators on the painting. I will further advance the discussion by moving away from Michael Fried's concept of &quot;absorption,&quot; a persistent interpretive model even in an exhibition catalogue on Caillebotte in 2016, to examine other questions. In addition to the problems faced by both art historians and artists between portraiture (life imaging) and biography (life writing), I will examine representations of &quot;Frenchness,&quot; and Cordier's intellectual and political work in the broader context of French imperialism in East Asia.</dcterms:abstract>
+        <dc:date>2016-09-05</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://nottingham-repository.worktribe.com/output/779949</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:meetingName>Work in Progress Seminar</z:meetingName>
+    </bib:ConferenceProceedings>
+    <bib:Thesis rdf:about="https://sussex.primo.exlibrisgroup.com/permalink/44SUS_INST/p3abpr/alma9940271302461">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Falmer, UK</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Sussex</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Alfred Bruyas: The Mythology and Practice of Art Collecting and Patronage in Nineteenth-Century</dc:title>
+        <dcterms:abstract>This thesis investigates the career of Alfred Bruyas (1821-77), an art collector and patron active in Paris and Montpellier in the third quarter of the nineteenth century. Through an examination of his personal correspondence, housed in the Fondation Doucet in Paris, his activities and relationships with artists, critics, dealers and fellow collectors are traced from the late 1840s until his death in 1877. Most important among his collaborators were Alexandre Cabanel, Octave Tassaert, Auguste Glaize, Gustave Courbet, Eugene Delacroix, and the art critic Theophile Silvestre, each of whom is discussed at length. Using unpublished documents from the departmental and municipal archives of Montpellier, as well as catalogues and pamphlets published by Bruyas, his goals, practices, successes and failures are considered. In particular, the relationship with Courbet and their ambiguous yet fruitful association are examined, and special attention is paid to events of 1855, the year of the Exposition universelle and the Pavilion of Realism in Paris. In an exhaustive treatment of contemporary criticism, the largely negative reception of the two major paintings by Courbet in which Bruyas figured, The Meeting and The Painter's Studio, are traced. When Bruyas donated his entire gallery to the Musde Fabre in Montpellier his contribution to the history of art was acknowledged and praised. Subsequent art historical scholarship of the twentieth century, in contrast, has tended to reduce Bruyas to an eccentric collector who made little impact, especially in his association with Courbet. Using his example as a point of departure, the long tradition in France of portraying collectors as dangerous, obsessive stalkers on the margins of society is investigated. The origins of that depiction is traced to Jean de La Bruyere who established the indelible topos of the mad collector in his work, Les Caracteres of 1694 (8th edition). Through the analysis of an extensive number of sources — books, newspapers, novelS and private journals — from the eighteenth and nineteenth centuries the enduring legacy of La Bruyére in the perception and portrayal of collectors in France is demonstrated. As the nineteenth century progressed, individual collectors emerged to play an increasing role in the assembly and preservation of art. In donating their galleries to the public, moreover, they demonstrated a new and essential contribution to the expansion of national museums. Through five case studies I analyse the evolution of private collecting and its impact on public institutions in nineteenth-century France. Bruyas's outstanding contribution is examined within this larger development. In so doing this thesis attempts to dispel the persistent myth of Bruyas as an eccentric collector of no importance.</dcterms:abstract>
+        <dc:date>1996</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>University of Sussex Library</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>9940271302461</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sussex.primo.exlibrisgroup.com/permalink/44SUS_INST/p3abpr/alma9940271302461</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>385</z:numPages>
+        <z:type>PHD</z:type>
+    </bib:Thesis>
+</rdf:RDF>
